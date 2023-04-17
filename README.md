@@ -8,5 +8,5 @@ maven {
 ```
 # maven 地址
 ``` groovy
-implementation 'cn.xiaoxige.weiget:pagecontainer:1.0.0'
+implementation 'cn.xiaoxige.weiget:pagecontainer:1.0.4'
 ```
